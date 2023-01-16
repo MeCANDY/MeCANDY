@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @MeCANDY
+- 👋 Hi, I’m @aditya
 - 👀 I’m interested in ...Coding and Stuff
-- 🌱 I’m currently learning ...C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...adityarj547@gmail.com/ IG@- candyme._
+- 🌱 I’m currently learning C++
+- 📫 How to reach me ...adityarj547@gmail.com
 
 <!---
 MeCANDY/MeCANDY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
